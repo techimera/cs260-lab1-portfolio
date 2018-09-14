@@ -4,6 +4,9 @@
     font-size: 50px;
     color: white;
     text-align: center;
+    background-color: gray;
+    width: 380px;
+    align: center;
 }
 
 #htmlbackground{
