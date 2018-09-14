@@ -1,0 +1,93 @@
+#name{
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+#htmlbackground{
+    background: url("https://images.unsplash.com/photo-1530482817083-29ae4b92ff15?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=44f4aebbd1e1371d5bf7dc22016c5d29&w=1000&q=80") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.contact{
+    margin: auto;
+    width: 165px;
+    color: white;
+    
+    margin-top: 25px;
+    
+    border-style: solid;
+    border-width: 8px;
+    border-color: white;
+    
+    padding: 4px;
+    
+}
+
+.topmenu{
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 4px;
+    width: 400px;
+}
+
+.othermenu{
+    margin: auto;
+    width: 400px;
+    margin-top: 4px;
+    
+    border-top: solid;
+    border-top-color: white;
+    border-top-width: 1px;
+}
+
+.ctg{
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 10px:
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    cursor:pointer;
+}
+
+.hide{
+    display:none;
+    padding-top: 15px;
+    border-top:solid;
+    border-top-color: white;
+    border-top-width: 1px;
+    list-style: inside;
+    padding-left: 25px;
+}
+
+.details{
+    color: white;
+    margin: auto;
+}
+
+#footer{
+    margin: auto;
+    width: 400px;
+    margin-top: 30px;
+	background-color: lightgrey;
+	text-align: center;
+}
+
+li {
+    color:white;
+}
+
+a:link{color:white;}
+a:visited{color:white;}
+
+
+#imgin{
+    width: 350px;
+    margin-left: 0px;
+}
